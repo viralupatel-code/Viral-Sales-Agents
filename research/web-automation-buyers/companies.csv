@@ -1,0 +1,193 @@
+Company,Segment,Vendor(s) used,Industry,Use case / what they do with it,Evidence,Confidence,Source URL,Website,Notes
+Ramp,1 - Browser infra user,Browserbase,Fintech,"Finance agents; receipt retrieval from merchant sites, 5M+ receipts/month",Case study,High,https://www.browserbase.com/blog/case-study-ramp,ramp.com,
+Vercel,1 - Browser infra user,Browserbase; Kernel,Developer platform,Real-time revenue/BI system crawling millions of websites,Case study + logo,High,https://www.browserbase.com/blog/case-study-vercel,vercel.com,Uses two vendors
+Airtable,1 - Browser infra user,Browserbase,SaaS,Built its Hyperagent agent platform on Browserbase,Case study,High,https://www.browserbase.com/blog/case-study-hyperagent,airtable.com,
+Amplitude,1 - Browser infra user,Browserbase,Analytics SaaS,AI-powered sales demos; $10M+ pipeline attributed,Case study,High,https://www.browserbase.com/blog/how-amplitude-transformed-sales-demos-with-browser-automation,amplitude.com,
+Microsoft,1 - Browser infra user,Browserbase; Browser Use (logo); Browserless (3rd-party),Big tech,Training/evaluating computer-use models,Case study,High,https://www.browserbase.com/blog/training-computer-use-models-in-the-real-world-with-microsoft,microsoft.com,Appears on 3 vendors
+Google DeepMind,1 - Browser infra user,Browserbase; Browser Use (logo),AI lab,Training & evaluating browser agents,Case study,High,https://www.browserbase.com/blog/evaluating-browser-agents,deepmind.google,
+Commure,1 - Browser infra user,Browserbase,Healthcare,"Healthcare claims automation, 8,000+ hours in 3 months",Case study,High,https://www.browserbase.com/blog/case-study-commure,commure.com,
+Magicare,1 - Browser infra user,Browserbase,Healthcare (SNF admissions),Skilled-nursing admissions decisions cut from 60 min to 60 sec,Case study,High,https://www.browserbase.com/blog/magicare-snf-admissions-browserbase,,
+Hamlet,1 - Browser infra user,Browserbase,Civic / government data,"Checks 2,500 local government meetings every day",Case study,High,https://www.browserbase.com/blog/case-study-hamlet,,
+The Interaction Company (Poke),1 - Browser infra user,Browserbase,Consumer AI assistant,Hundreds of thousands of browser sessions,Case study,High,https://www.browserbase.com/blog/case-study-interaction,,
+The General Intelligence Company,1 - Browser infra user,Browserbase,AI agents,5-person team shipping ~50 PRs/day using Browserbase,Case study,High,https://www.browserbase.com/blog/case-study-general-intelligence-company,,
+ShopVision,1 - Browser infra user,Browserbase,E-commerce intelligence,1.2 billion data-point retail intelligence engine,Case study,High,https://www.browserbase.com/blog/case-study-shopvision,,Closest to Anakin's core (retail/pricing intel)
+Numeral,1 - Browser infra user,Browserbase,Fintech / sales tax,Sales tax filings across 48 state portals,Case study,High,https://www.browserbase.com/blog/numeral-automates-sales-tax,,
+Chronicle,1 - Browser infra user,Browserbase,Legal tech,"100,000 browser sessions/month; disability case reviews on gov portals",Case study,High,https://www.browserbase.com/blog/case-study-chronicle,,
+Aomni,1 - Browser infra user,Browserbase,Sales intelligence,Automated sales research,Case study,High,https://www.browserbase.com/blog/case-study-aomni,,
+PromptLoop,1 - Browser infra user,Browserbase,B2B data / GTM,Crawls hundreds of thousands of sites per month,Case study,High,https://www.browserbase.com/blog/case-study-promptloop,,
+Coframe,1 - Browser infra user,Browserbase; Kernel,Marketing / CRO,Automated website optimizations,Case study + logo,High,https://www.browserbase.com/blog/case-study-coframe,,Uses two vendors
+Parcha,1 - Browser infra user,Browserbase,Fintech compliance (KYB),Compiles a business profile in 10 seconds,Case study,High,https://www.browserbase.com/blog/case-study-parcha,,
+Benny,1 - Browser infra user,Browserbase,Fintech (SNAP/EBT),SNAP data extraction and faster merchant onboarding,Case study,High,https://www.casestudies.com/company/browserbase/case-study/how-benny-eliminated-automation-maintenance-overhead,,
+Intelligent Audit,1 - Browser infra user,Browserless,Freight audit / logistics,Self-hosted; logs in to carrier portals thousands of times a day,Case study,High,https://www.browserless.io/customers/intelligent-audit,,
+Dune,1 - Browser infra user,Browserless,Onchain data,Screenshots and end-to-end tests,Case study,High,https://www.browserless.io/customers/dune,dune.com,
+Beagle,1 - Browser infra user,Browserless,Fintech (401k recovery),"Bot-resistant scraping on a dedicated deployment, 4 years",Case study,High,https://www.browserless.io/customers/beagle,,
+Pragma Legal,1 - Browser infra user,Browserless,Legal tech,AI-native case-file migration,Case study,High,https://www.browserless.io/customers/pragma-legal,,
+Ace Influence,1 - Browser infra user,Browserless,Influencer marketing,Creator sourcing at scale,Case study,High,https://www.browserless.io/customers/ace-influence,,
+Recyclops,1 - Browser infra user,Browserless,Recycling / sustainability,Pickup-request scraping and dispatch,Case study,High,https://www.browserless.io/customers/recyclops,,
+Vivian Health,1 - Browser infra user,Browserless,Healthcare staffing,On-demand PDF generation,Case study,High,https://www.browserless.io/customers/vivian-health,,
+Manifold Freight,1 - Browser infra user,Browserless,Logistics,Real-time freight bidding automation,Case study,High,https://www.browserless.io/customers/manifold-freight,,
+Atomic,1 - Browser infra user,Browserless,Fintech (payroll connectivity),"Thousands of daily payroll and banking automations, self-hosted",Case study,High,https://www.browserless.io/customers/atomic-fi,atomicfi.com,"Its own product turns payroll sites into an API, so it also fits Segment 2"
+My AskAI,1 - Browser infra user,Browserless,AI customer support,Web access for support chatbots,Case study,High,https://www.browserless.io/customers/my-askai,,
+Semji,1 - Browser infra user,Browserless,SEO / AI content,HTML snapshots and PDF exports,Case study,High,https://www.browserless.io/customers/semji,,
+Takeoff Copenhagen,1 - Browser infra user,Browserless,E-commerce,Competitive price scraping; moved off Bright Data,Case study,High,https://www.browserless.io/customers/takeoff,,Price-scraping buyer; directly relevant to Anakin
+Okra,1 - Browser infra user,Browserless,"Fintech (open banking, Africa)",Bank scraping inside its financial widget,Case study,High,https://www.browserless.io/customers/okra,,Also fits Segment 2 (bank sites as API)
+Nous Research (Hermes Agent),1 - Browser infra user,Browser Use,AI lab,Browser Use is Hermes Agent's default browser tool,Case study,High,https://browser-use.com/case-studies/hermes,,
+Sauna,1 - Browser infra user,Browser Use,AI agents,Hands jobs to a browser when no API exists,Case study,High,https://browser-use.com/case-studies/sauna,,
+Parallel Web Systems,1 - Browser infra user,Browser Use,AI search API,Sends gated/login pages to Browser Use,Case study,High,https://browser-use.com/case-studies/parallel,parallel.ai,
+Vesta,1 - Browser infra user,Browser Use,Mortgage tech,"OFAC, SAM.gov, HUD searches and county tax bills for every loan",Case study,High,https://browser-use.com/posts/vesta,,
+Composio,1 - Browser infra user,Browser Use; Anchor Browser,Agent integrations platform,Composio Browser Tool runs on Browser Use,Case study + testimonial,High,https://browser-use.com/posts/composio,composio.dev,Uses two vendors
+Glasslake,1 - Browser infra user,Browser Use,SAP test automation,Agents click through SAP Fiori for test evidence,Case study,High,https://browser-use.com/posts/glasslake-sap-test-automation,,
+Gumloop,1 - Browser infra user,Browser Use; Notte,AI workflow automation,Runs Browser Use stealth browser on-prem in its sandboxes,Case study + logo,High,https://browser-use.com/posts/gumloop-on-prem-stealth-browser,gumloop.com,Uses two vendors
+The Prompting Company,1 - Browser infra user,Kernel,AI search visibility (GEO),"50,000+ browsers/month to get brands cited by LLMs",Case study,High,https://www.kernel.sh/customers/thepromptingcompany,,
+Effective AI,1 - Browser infra user,Kernel,Insurance regulatory data,Ingests 10M+ insurance regulatory filings; 24/7 workloads,Case study,High,https://www.kernel.sh/customers/effective,,
+Felicity,1 - Browser infra user,Kernel,Healthcare operations,AI agents automating healthcare ops (EHR),Case study,High,https://www.kernel.sh/customers/felicity,,
+Silkline,1 - Browser infra user,Kernel,Manufacturing procurement,Modernized manufacturing procurement,Case study,High,https://www.kernel.sh/customers/silkline,,
+Stably,1 - Browser infra user,Kernel,AI QA testing,Runs customers' browser test suites,Case study,High,https://www.kernel.sh/customers/stably,,
+Flint,1 - Browser infra user,Kernel,Website platform,Autonomous website platform,Case study,High,https://www.kernel.sh/customers/flint,,
+Skydive,1 - Browser infra user,Kernel,AI agents,Builds agents that do work on the web,Case study,High,https://www.kernel.sh/customers/skydive,,
+Stardrift,1 - Browser infra user,Kernel,Travel booking agent,Agentic travel booking,Testimonial,High,https://www.kernel.sh,,
+Groq,1 - Browser infra user,Anchor Browser,AI inference,"Parallel browsers power Compound, its research agent",Testimonial,High,https://anchorbrowser.io,groq.com,
+Convergence,1 - Browser infra user,Browserbase,Consumer web agents,"Consumer web agent, scaled to 200K users",Case study,Medium,https://www.browserbase.com/blog/case-study-convergence,,Acquired by Salesforce; buying decision now sits with Salesforce
+Clay,1 - Browser infra user,Browserbase,GTM data / enrichment,"Logo on homepage, fintech and GTM pages",Logo,Medium,https://www.browserbase.com,clay.com,
+ClickUp,1 - Browser infra user,Browserbase,Productivity SaaS,Logo on homepage,Logo,Medium,https://www.browserbase.com,clickup.com,
+Replit,1 - Browser infra user,Browserbase,Developer tools,Logo on homepage and AI page,Logo,Medium,https://www.browserbase.com,replit.com,
+Higgsfield,1 - Browser infra user,Browser Use,AI video,Logo on homepage,Logo,Medium,https://browser-use.com,,
+Cal.com,1 - Browser infra user,Browser Use,Scheduling SaaS,Logo on homepage,Logo,Medium,https://browser-use.com,cal.com,
+Wabi,1 - Browser infra user,Browser Use,,Logo on homepage,Logo,Medium,https://browser-use.com,,
+Cash App,1 - Browser infra user,Kernel,Fintech,Logo on homepage,Logo,Medium,https://www.kernel.sh,cash.app,
+Framer,1 - Browser infra user,Kernel,Website builder,Logo on homepage,Logo,Medium,https://www.kernel.sh,framer.com,
+Emergent,1 - Browser infra user,Kernel,AI app builder,Logo on homepage,Logo,Medium,https://www.kernel.sh,,
+ClaimHealth,1 - Browser infra user,Kernel,Healthcare,Logo on customers page,Logo,Medium,https://www.kernel.sh/customers,,
+Y Combinator,1 - Browser infra user,Kernel,Venture / accelerator,Logo on homepage,Logo,Medium,https://www.kernel.sh,ycombinator.com,
+Intrinsic Labs,1 - Browser infra user,Anchor Browser,,Built and demoed a workflow on Anchor for a major customer,Testimonial,Medium,https://anchorbrowser.io,,
+CarEdge,1 - Browser infra user,Skyvern,Automotive,Logo on homepage,Logo,Medium,https://www.skyvern.com,,
+Pilot,1 - Browser infra user,Skyvern,,Logo on homepage,Logo,Medium,https://www.skyvern.com,,Name is ambiguous; confirm which Pilot
+Valence Intelligence,1 - Browser infra user,Skyvern,,Logo on homepage,Logo,Medium,https://www.skyvern.com,,
+rapidAND,1 - Browser infra user,Skyvern,,Logo on homepage,Logo,Medium,https://www.skyvern.com,,
+Legion Health,1 - Browser infra user,Skyvern,Healthcare,Logo on homepage,Logo,Medium,https://www.skyvern.com,,
+ONLAYER,1 - Browser infra user,Skyvern,,Logo on homepage,Logo,Medium,https://www.skyvern.com,,
+Pathmonk,1 - Browser infra user,Skyvern,Marketing / CRO,Logo on homepage,Logo,Medium,https://www.skyvern.com,,
+Huel,1 - Browser infra user,Airtop,Consumer goods / DTC,Logo under 'Top companies using Airtop',Logo,Medium,https://www.airtop.ai,huel.com,CPG brand; fits Anakin's retail focus
+FINN,1 - Browser infra user,Airtop,Car subscription,Logo under 'Top companies using Airtop',Logo,Medium,https://www.airtop.ai,finn.com,
+Signalist,1 - Browser infra user,Airtop,,Logo under 'Top companies using Airtop',Logo,Medium,https://www.airtop.ai,,
+CTD,1 - Browser infra user,Airtop,,Logo under 'Top companies using Airtop',Logo,Medium,https://www.airtop.ai,,Name is ambiguous
+Salespeak,1 - Browser infra user,Airtop,Sales AI,Logo under 'Top companies using Airtop',Logo,Medium,https://www.airtop.ai,,
+Heroku,1 - Browser infra user,Browserless,Cloud platform,Listed as a notable customer by a third-party directory,3rd-party listing,Low,https://www.everydev.ai/developers/browserless,,
+Webflow,1 - Browser infra user,Browserless,Website builder,Listed as a notable customer by a third-party directory,3rd-party listing,Low,https://www.everydev.ai/developers/browserless,,
+Samsara,1 - Browser infra user,Browserless,IoT / fleet,Listed as a notable customer by a third-party directory,3rd-party listing,Low,https://www.everydev.ai/developers/browserless,,
+Google,1 - Browser infra user,Browser Use,Big tech,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+OpenAI,1 - Browser infra user,Browser Use,AI lab,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Anthropic,1 - Browser infra user,Browser Use,AI lab,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Apple,1 - Browser infra user,Browser Use,Big tech,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Airbnb,1 - Browser infra user,Browser Use,Travel marketplace,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Amazon,1 - Browser infra user,Browser Use,Big tech / e-commerce,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Datadog,1 - Browser infra user,Browser Use,Observability,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+DHL,1 - Browser infra user,Browser Use,Logistics,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+FedEx,1 - Browser infra user,Browser Use,Logistics,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Flexport,1 - Browser infra user,Browser Use,Logistics,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Airbyte,1 - Browser infra user,Browser Use,Data integration,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Change Healthcare,1 - Browser infra user,Browser Use,Healthcare payments,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Epic Systems,1 - Browser infra user,Browser Use,Healthcare EHR,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Palantir,1 - Browser infra user,Browser Use,Data / defense,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Scale AI,1 - Browser infra user,Browser Use,AI data,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Sentry,1 - Browser infra user,Browser Use,Developer tools,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Shopee,1 - Browser infra user,Browser Use,E-commerce,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Shopify,1 - Browser infra user,Browser Use,E-commerce,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Snowflake,1 - Browser infra user,Browser Use,Data cloud,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Stripe,1 - Browser infra user,Browser Use,Fintech,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Teladoc Health,1 - Browser infra user,Browser Use,Healthcare,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Uber,1 - Browser infra user,Browser Use,Mobility,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Zapier,1 - Browser infra user,Browser Use,Automation SaaS,Logo on Browser Use homepage,Logo wall,Low,https://browser-use.com,,"Likely open-source use by engineers, not a confirmed contract"
+Rye,1 - Browser infra user,Kernel,Agentic commerce API,Named by third-party aggregators,3rd-party listing,Low,https://yespress.io/kernel.md,,Not on kernel.sh
+Novoflow,1 - Browser infra user,Kernel,Healthcare AI,Named by a third-party aggregator,3rd-party listing,Low,https://ai.notte.cc/answers/browserbase-vs-kernel,,Not on kernel.sh; source is a competitor's site
+Zo Computer,1 - Browser infra user,Steel,,Listed as a notable Steel customer,3rd-party listing,Low,https://www.everydev.ai/developers/steel,,
+Profound,1 - Browser infra user,Steel,AI search visibility,Listed as a notable Steel customer,3rd-party listing,Low,https://www.everydev.ai/developers/steel,,
+Octogen,1 - Browser infra user,Steel,,Listed as a notable Steel customer,3rd-party listing,Low,https://www.everydev.ai/developers/steel,,
+Melrose,1 - Browser infra user,Steel,,Listed as a notable Steel customer,3rd-party listing,Low,https://www.everydev.ai/developers/steel,,
+Money,1 - Browser infra user,Airtop,,Logo labelled 'Money' under 'Top companies using Airtop',Logo,Low,https://www.airtop.ai,,Logo alt text only; company unclear
+PEAK6,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+CADDi,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+ROLLER,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Duckbill,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+VetRec,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Shippingbo,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Cato,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Thematic,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Jerry,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Ownwell,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+RiskAdvisor,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Podchaser,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Laylo,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Stacksync,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Rollee,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only. Rollee's product is payroll/gig-platform connectivity, so it also fits Segment 2"
+Phacet,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Klaar,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Brikl,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Fabric,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Hostshare,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Lodgeic,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Agentech,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Royaltyport,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+HeyMax,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Fortis Net Lease,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Legend Labs,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Orthogonal,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Infer,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Scira AI,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Alpic,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Handly,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+LeadSpot,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Vicinity,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Feast Analytics,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Magnar,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Super44,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Rastro AI,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Synth,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Manufact,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Giant,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+FastApply,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+AutoAce,1 - Browser infra user,Notte,,Logo on Notte homepage,Logo wall,Low,https://www.notte.cc,,"Logo only, no use case"
+Wander,2 - Website-as-API user,Deck,,Cut user onboarding to 22 seconds with Deck agents,Case study,High,https://www.deck.co/customers/wander,,
+Kompas,2 - Website-as-API user,Deck,Software switching,Makes switching software a one-login job,Case study,High,https://www.deck.co/customers/kompas,,
+Evive,2 - Website-as-API user,Deck,Retail analytics,Real-time retail sales data from portals,Case study,High,https://www.deck.co/customers/evive,,Retail data use case; relevant to Anakin
+Patchbay,2 - Website-as-API user,Deck,Music industry,Unlocked the music industry's API-less portals,Case study,High,https://www.deck.co/customers/patchbay,,
+Rampart,2 - Website-as-API user,Deck,,Built 20 integrations in a day,Case study,High,https://www.deck.co/customers/rampart,,
+PaySitters,2 - Website-as-API user,Deck,Bill pay,Autopay for everyone on top of legacy systems,Case study,High,https://www.deck.co/customers/paysitters,,
+BuildVision,2 - Website-as-API user,Deck,Construction,Works inside legacy systems to win enterprise customers,Case study,High,https://www.deck.co/customers/buildvision,,
+Glowtify,2 - Website-as-API user,Deck,,Simplified its integrations,Case study,High,https://www.deck.co/customers/glowtify,,
+Deepki,2 - Website-as-API user,Deck,Real-estate ESG,Fetches bills from 300 different portals,Case study,High,https://www.deck.co/customers/deepki,deepki.com,
+Smartbills,2 - Website-as-API user,Deck,Utilities,Simplifies utilities for 375M users,Case study,High,https://www.deck.co/customers/smartbills,,
+Google (Google Hotels Japan),2 - Website-as-API user,TinyFish,Big tech / travel,Aggregates inventory from thousands of hard-to-reach Japanese hotels into Google Travel,Case study,High,https://www.tinyfish.ai/customers/google-hotels-japan,google.com,
+DoorDash,2 - Website-as-API user,TinyFish,Food delivery,Web interaction at scale,Case study + quote,High,https://www.tinyfish.ai/customers/doordash,doordash.com,Delivery platform; fits Anakin's vertical
+Grubhub,2 - Website-as-API user,TinyFish,Food delivery,Crowd-sourced sentiment intelligence for revenue analytics,Case study + quote,High,https://www.tinyfish.ai/customers/grubhub,grubhub.com,Delivery platform; fits Anakin's vertical
+ClassPass,2 - Website-as-API user,TinyFish,Fitness marketplace,AI agent workflows,Case study + quote,High,https://www.tinyfish.ai/customers/classpass,classpass.com,
+The Zebra,2 - Website-as-API user,TinyFish,Insurance marketplace,Bindable quotes from carrier sites in seconds,Case study + quote,High,https://www.tinyfish.ai/customers/the-zebra,thezebra.com,
+TestSprite,2 - Website-as-API user,TinyFish,AI QA testing,Browser interaction layer for testing agents,Case study + quote,High,https://www.tinyfish.ai/customers/testsprite,,
+Digital Garage,2 - Website-as-API user,TinyFish,Fintech / internet (Japan),Web workflows in Japan it could not automate otherwise,Case study + quote,High,https://www.tinyfish.ai/customers/digital-garage,,
+Homebase,2 - Website-as-API user,Anon,SMB HR / scheduling,Agent-driven integrations for its small-business customers,Testimonial,High,https://www.anon.com,joinhomebase.com,
+Brex,2 - Website-as-API user,Deck,Fintech,Logo on Deck customers page,Logo,Medium,https://www.deck.co/customers,brex.com,
+BILT,2 - Website-as-API user,Deck,Fintech / rent rewards,Logo on Deck customers page,Logo,Medium,https://www.deck.co/customers,biltrewards.com,
+Capgemini,2 - Website-as-API user,Deck,IT services,Logo on Deck customers page,Logo,Medium,https://www.deck.co/customers,capgemini.com,Large SI; possible channel partner
+Upgrade,2 - Website-as-API user,Deck,Fintech,Logo on Deck homepage,Logo,Medium,https://www.deck.co/customers,upgrade.com,
+MoneyLion,2 - Website-as-API user,Deck,Fintech,Logo on Deck homepage,Logo,Medium,https://www.deck.co,moneylion.com,
+Menards,2 - Website-as-API user,Deck,Home-improvement retail,Logo on Deck homepage,Logo,Medium,https://www.deck.co,menards.com,Large US retailer; fits Anakin's retail focus
+Greenly,2 - Website-as-API user,Deck,Carbon accounting,Logo on Deck homepage,Logo,Medium,https://www.deck.co,greenly.earth,
+Billee,2 - Website-as-API user,Deck,,Logo on Deck homepage,Logo,Medium,https://www.deck.co,,
+UpperBee,2 - Website-as-API user,Deck,,Logo on Deck homepage,Logo,Medium,https://www.deck.co,,
+GetGo,2 - Website-as-API user,TinyFish,Car sharing,Logo + customer page,Case study,Medium,https://www.tinyfish.ai/customers/getgo,,
+Perspectives Health,2 - Website-as-API user,Integuru,Healthcare,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,perspectiveshealth.ai,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Halo Health,2 - Website-as-API user,Integuru,Healthcare,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,halohealth.app,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Charta Health,2 - Website-as-API user,Integuru,Healthcare,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,chartahealth.com,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Truss,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,gettruss.io,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Cartage,2 - Website-as-API user,Integuru,Logistics,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,cartage.ai,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+RoverPass,2 - Website-as-API user,Integuru,Campground booking software,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,roverpass.com,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Knowtex,2 - Website-as-API user,Integuru,Healthcare AI,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,knowtex.ai,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Wybit,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,wybit.ai,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Brickwise,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,brickwiseai.com,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Penciled,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,penciled.com,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Andy AI,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,with-andy.com,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Paraspot,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,paraspot.ai,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Opacity,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,opacity.network,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Tivara,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,tivara.com,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Multiplier,2 - Website-as-API user,Integuru,,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,multiplierhq.com,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
+Wedge Health,2 - Website-as-API user,Integuru,Healthcare,Logo under 'Trusted by leading companies',Logo,Medium,https://www.integuru.ai,wedge.health,"Integuru builds browserless APIs on top of sites (EHRs, ERPs, portals)"
