@@ -12,6 +12,8 @@ Researched 19 Nov 2026 from vendor customer pages, case studies and logo walls. 
 - **Medium:** the company's logo is on the vendor's own site, with no use case.
 - **Low:** a third-party listing, or a vendor logo wall that probably reflects engineers using open-source tools, not a paid contract. Browser Use's wall of Google, Apple, Amazon, DHL and others falls here.
 
+**Next step:** [`signal-playbook.md`](signal-playbook.md) defines the signals for finding more companies like these (139 signals, scoring, plays, rollout); [`signals.csv`](signals.csv) has them one per row.
+
 ## Where to start
 
 These have the strongest public evidence and are closest to Anakin's retail, delivery and pricing-intelligence focus:
